@@ -1,0 +1,5 @@
+{
+  "nuxt.isNuxtApp": false,
+  "gitdoc.enabled": false,
+  "totvsLanguageServer.welcomePage": false
+}

@@ -1,0 +1,34 @@
+{
+  "name": "vscode-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@notionhq/client": "^0.2.2",
+    "next": "^12.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-github-calendar": "^3.2.2",
+    "update": "^0.7.4"
+  },
+  "description": "Portfolio",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comnsense/vscd.git"
+  },
+  "keywords": [
+    "porfolio"
+  ],
+  "author": "Mirela Yosifova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comnsense/vscd/issues"
+  },
+  "homepage": "https://github.com/comnsense/vscd#readme"
+}
